@@ -138,4 +138,4 @@ FPLinker/
 
 ## License
 
-[MIT License](LICENSE)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://opensource.org/licenses/GPL-2.0)
